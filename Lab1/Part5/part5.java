@@ -9,7 +9,7 @@ public class part5{
 		System.out.println("Please, enter an integer number: ");
 		int i = input.nextInt();
 		
-		dum i=i%100;
+		dum=i%100;
 		b=i/100;
 		
 		d=dum%10;
